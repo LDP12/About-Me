@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Luke
+- 👋 Hi, I’m Luke & I am a Junior Software Developer
 - 👀 I’m interested in Software Development (JavaScript, React, SQL & C#).
 - 🌱 I’m currently working with C# & SQL as my base languages.
 - 💞️ I’m looking to collaborate on any intermediate Front-End or Back-End Development/Project to get as much experience as possible.
