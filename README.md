@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning JavaScript, React & C#.
 - 💞️ I’m looking to collaborate on any intermediate Front-End or Back-End Development/Project to get as much experience as possible.
 - 📫 Reach me on: WhatsApp: +27760751400 or Discord: LDP12#9380
+- Checkout my most recent live project: VAT, Exchange Rates & FICA Project here on Github
